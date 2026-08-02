@@ -3,5 +3,5 @@
 <h2>🖥️IT Projects:</h2>
    
 -  <b>Active Directory Home Lab (Oracle VirtualBox)</b>
-   - [Active Drectory Lab](https://github.com/mozaki99/Active-Directory-Home-Lab)
+   - [Active Drectory Lab](https://github.com/krystalfang1/Active-Directory-Home-Lab)
 
