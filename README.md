@@ -2,7 +2,7 @@
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/krystalfang1/Vulnerability-Management-Program-Implementation/tree/main)**
+- **[Vulnerability Management Program Implementation](https://github.com/krystalfang1/Vulnerability-Management-Program-Implementation)**
 - **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)]()**
 
 ## 🚨 Threat Hunting and Security Operations
