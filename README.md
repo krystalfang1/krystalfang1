@@ -5,13 +5,8 @@
 - **[Vulnerability Management Program Implementation](https://github.com/krystalfang1/Vulnerability-Management-Program-Implementation)**
 - **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)]()**
 
-## 🚨 Threat Hunting and Security Operations
-
-
-<hr/>
-
-<h2>🖥️IT Projects:</h2>
-   
--  <b>Active Directory Home Lab </b>
-   - [Active Drectory Lab](https://github.com/krystalfang1/Active-Directory-Home-Lab)
+## 🚨 GRC Capstone
+   - ([https://github.com/krystalfang1/Active-Directory-Home-Lab](https://github.com/krystalfang1/Corporate-Cybersecurity-Assessment-utilizing-NIST-CyberSecurity-Framework-CSF-2.0/tree/main))
+ 
+   - 
 
